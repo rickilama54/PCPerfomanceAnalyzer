@@ -1,0 +1,25 @@
+#wrapper{
+    padding:5px;
+    border:dotted 2px #ff006e;
+    margin:5px;
+    height: 90%;
+    width: 96%;
+    position:absolute;
+    background-color: grey;
+}
+#memoryContainer{
+	height: 60%; 
+	width: 45%;
+	position:relative;
+	float: left;
+	top: 32px;
+	margin: 10px;
+	
+}
+#cpuContainer{
+	width:45%; height:60%;
+	position: relative;
+	float: right;
+	top: 32px;
+	margin: 10px;
+}
